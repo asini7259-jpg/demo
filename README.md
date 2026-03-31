@@ -41,7 +41,7 @@ Frontend
 Architecture
 
 User → React Frontend → Flask API → Algorand Blockchain  
-                                  ↘ Smart Contract (Escrow)
+                                  Smart Contract (Escrow)
 
 
 
