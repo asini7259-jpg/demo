@@ -1,0 +1,6 @@
+flask
+flask-cors
+py-algorand-sdk
+pyteal
+qrcode[pil]
+pytest
